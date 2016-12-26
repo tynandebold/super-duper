@@ -74,6 +74,7 @@ body {
         body main button:hover {
           background-color: #fff; } }
     body main button.clicked:hover {
+      background-color: #fff;
       cursor: default; }
     body main button:focus {
       outline: 0; }
